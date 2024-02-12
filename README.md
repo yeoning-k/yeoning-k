@@ -1,4 +1,4 @@
-#### 김수연 yeoning
+### 김수연 yeoning
 Front-end developer
 
 <br/>
