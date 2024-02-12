@@ -29,7 +29,13 @@ Front-end developer
 <br/>
 <br/>
 <br/>
-<a href="https://yeonlog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my blog-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-<a href="mailto:sy03549@gmail.com">📧 sy03549@gmail.com</a>
+
+---
+
+<br/>
+<br/>
+
+<a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
+<a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
 
 
