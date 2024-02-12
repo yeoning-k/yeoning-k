@@ -2,6 +2,10 @@
 Front-end developer
 
 <br/>
+<a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
+<a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
+
+<br/>
 <br/>
 
 👷‍♂️ **Tack stack**  
@@ -27,10 +31,4 @@ Front-end developer
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br/>
 <br/>
-
-<div style="border-top: 1px solid #eee">
-<br/>
-<a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
-<a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
-</div>  
 
