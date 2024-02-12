@@ -4,7 +4,7 @@ Front-end developer
 <br/>
 <br/>
 
-#### 👷‍♂️ **Tack stack**  
+👷‍♂️ **Tack stack**  
 <br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -18,14 +18,16 @@ Front-end developer
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 <br/>
-<br/>
-#### 🎸 **Etc**  
+<br/>  
+
+🎸 **Etc**  
 <br/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br/>
 <br/>
+
 --
 <br/>
 <a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
