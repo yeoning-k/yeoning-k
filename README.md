@@ -29,6 +29,7 @@ Front-end developer
 <br/>
 
 --
+
 <br/>
 <a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
 <a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
