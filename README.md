@@ -28,7 +28,7 @@ Front-end developer
 <br/>
 <br/>
 
-<hr/>
+<hr style="height: 1px"/>
 
 <br/>
 <a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
