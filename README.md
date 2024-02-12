@@ -1,6 +1,8 @@
 ### 김수연 yeoning
 Front-end developer
-
+<br/>
+<br/>
+<br/>
 
 👷‍♂️ **Tack stack**  
 <br/>
@@ -24,5 +26,10 @@ Front-end developer
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+<br/>
+<br/>
+<br/>
+<a href="https://yeonlog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my blog-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<a href="mailto:sy03549@gmail.com">📧 sy03549@gmail.com</a>
 
 
