@@ -24,9 +24,7 @@ Front-end developer
 <br/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br/>
 <a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my blog</a> &nbsp;&nbsp;
 <a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
 
