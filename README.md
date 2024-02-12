@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoning-k&show_icons=true&theme=radical)
 
 <!---
 yeoning-k/yeoning-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
