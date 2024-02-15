@@ -1,7 +1,7 @@
 ### 김수연 yeoning
 Front-end developer
 
-<a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my portfolio</a> &nbsp;&nbsp;
+<a href="https://yeonlog.vercel.app/" target="_blank" style="font-size: 12px;">💻 my portfolio</a> &nbsp;&nbsp;
 <a href="mailto:sy03549@gmail.com" style="font-size: 12px;">📧 sy03549@gmail.com</a>
 
 <br/>
